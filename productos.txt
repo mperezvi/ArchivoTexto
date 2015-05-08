@@ -1,0 +1,10 @@
+p001,galletas ,2.5,100
+p002,ace,3.0,200
+p003,sublime,0.5,500
+p001,galletas ,2.5,100
+p002,ace,3.0,200
+p003,sublime,0.5,500
+p001,galletas ,2.5,100
+p002,ace,3.0,200
+p003,sublime,0.5,500
+p004,camotes,2.0,20
